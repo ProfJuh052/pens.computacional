@@ -1,0 +1,143 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+header{
+    background: rgb(0, 0, 0);
+    height: 5vh;
+}
+
+a :hover{
+    cursor: pointer;
+    opacity: 0.7;
+}
+
+.titulo_principal{
+    color: rgb(255,255,255);
+    text-transform: uppercase;
+    font-size: 32px;
+    padding-left: 2vw;
+}
+
+body{
+    background-image: url("bg.png");
+}
+
+main{
+    height:70vh;
+}
+
+.menu1 :hover{
+    font-style: italic;
+}
+
+.menu2 :hover{
+    font-style: italic;
+}
+
+.menu3 :hover{
+    font-style: italic;
+}
+
+.menu4 :hover{
+    font-style: italic;
+}
+
+.menu5 :hover{
+    font-style: italic;
+}
+
+.menu6 :hover{
+    font-style: italic;
+}
+
+.menu1{
+    background: rgb(0, 0, 0);
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+    font-style: normal;
+    color: rgb(255,255,255);
+    padding-right: 2vw;
+    padding-left: 2vw;
+    margin-top: 4vh;
+    margin-left: 85vw;
+    height: 5vh;
+    width: 10vw;
+    border-radius: 24px 24px 24px 0px;
+}
+
+.menu2{
+    background:  rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(255,255,255);
+    padding-right: 2vw;
+    padding-left: 2vw;
+    margin-top: 2vh;
+    margin-left: 85vw;
+    height: 5vh;
+    width: 10vw;
+    border-radius: 24px 24px 24px 0px;
+}
+
+.menu3{
+    background: rgba(0, 0, 0, 0.6);
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(255,255,255);
+    padding-right: 2vw;
+    padding-left: 2vw;
+    margin-top: 2vh;
+    margin-left: 85vw;
+    height: 5vh;
+    width: 10vw;
+    border-radius: 24px 24px 24px 0px;
+}
+
+.menu4{
+    background:  rgba(0, 0, 0, 0.8);
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(255,255,255);
+    padding-right: 2vw;
+    padding-left: 2vw;
+    margin-top: 2vh;
+    margin-left: 85vw;
+    height: 5vh;
+    width: 10vw;
+    border-radius: 24px 24px 24px 0px;
+}
+
+.menu5{
+    background: rgb(0, 0, 0);
+    text-decoration: none;
+    text-align: center;
+    font-size: 24px;
+    color: rgb(255,255,255);
+    padding-right: 2vw;
+    padding-left: 2vw;
+    margin-top: 2vh;
+    margin-left: 85vw;
+    height: 5vh;
+    width: 10vw;
+    border-radius: 24px 24px 24px 0px;
+}
+
+.imagem_de_espera{
+    background: none;
+    margin-top: 50vh;
+    margin-right: 96vw;
+    margin-left: 2vw;
+}
+
+footer{
+    background: rgb(0, 0, 0);
+    margin: 0;
+    height: 25vh;
+}
